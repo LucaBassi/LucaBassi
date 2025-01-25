@@ -13,7 +13,7 @@ Welcome to my GitHub !
 
 - 👋 Hi, I’m @LucaBassi
 - 👀 I’m interested by Linux based Operating Systems, PHP, Apache-Nginx, TCP/IP IPv4/IPv6 Networks, Docker, Kubernetes, Scripting  
-- 🌱 I’m currently learning how to live in this world !
+- 🌱 Growing like a plant !
 <!---
 LucaBassi/LucaBassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
