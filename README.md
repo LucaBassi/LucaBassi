@@ -12,7 +12,7 @@ Welcome to my GitHub !
 <br>
 
 - 👋 Hi, I’m @LucaBassi
-- 👀 I’m interested by Linux based Operating Systems, PHP, Apache-Nginx, TCP/IP IPv4/IPv6 Networks, Docker, Kubernetes, Scripting  
+- 👀 I’m interested by Linux based Operating Systems, WAF, Apache-Nginx web servers, TCP/IP IPv4/IPv6 Networks, Firewalling, Docker, Kubernetes, Scripting  
 - 🌱 Growing like a plant !
 
 
