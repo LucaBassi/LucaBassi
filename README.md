@@ -1,13 +1,11 @@
 
 
 <a name="readme-top"></a>
-<!-- PROJECT LOGO -->
-<br />
+<!-- LOGO -->
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://avatars.githubusercontent.com/u/36300869?v=4" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center"> Luca Bassi !</h3>
 Welcome to my GitHub !
 </div>
